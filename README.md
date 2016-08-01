@@ -9,13 +9,13 @@ Les notes peuvent être ajoutées à chaque enregistrement et les enregistrement
 
 Quoi spécial avec Enregistrement d'appel
 
-● Performance Rapide
-● Facile à utiliser
-● Pas de 
-● Pas de restriction
-● Moins de consommation de RAM
-● Petit Apk Taille
-● Moins Consommation
+*  Performance Rapide
+*  Facile à utiliser
+*  Pas de 
+*  Pas de restriction
+*  Moins de consommation de RAM
+*  Petit Apk Taille
+*  Moins Consommation
 
 Si vous avez des questions ou des suggestions seront le bienvenu pour améliorer ensemble cette application
 
